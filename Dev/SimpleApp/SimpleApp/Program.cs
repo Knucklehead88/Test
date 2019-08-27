@@ -7,6 +7,7 @@ namespace SimpleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Dev!");
+            Console.WriteLine("Goodbye!");
         }
     }
 }
